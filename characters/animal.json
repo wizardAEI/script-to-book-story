@@ -1,0 +1,578 @@
+{
+    "Species": [
+        "Mammal",
+        "bird",
+        "reptile",
+        "fish",
+        "amphibian",
+        "insect"
+    ],
+    "Size": [
+        "Tiny",
+        "small",
+        "medium",
+        "large",
+        "huge",
+        "Large",
+        "tiny"
+    ],
+    "Weight": [
+        "Light",
+        "medium",
+        "heavy"
+    ],
+    "Age": [
+        "Baby",
+        "juvenile",
+        "adult",
+        "elderly"
+    ],
+    "Body Type": [
+        "Slender",
+        "muscular",
+        "stocky",
+        "rotund"
+    ],
+    "Coat Type": [
+        "Fur",
+        "scales",
+        "feathers",
+        "skin",
+        "shell"
+    ],
+    "Coat Length": [
+        "Short",
+        "medium",
+        "long"
+    ],
+    "Coat ColPattern": [
+        "Solid",
+        "spotted",
+        "striped",
+        "mixed",
+        "camouflage"
+    ],
+    "Body Proportions": [
+        "Long body with short legs",
+        "long body with long legs",
+        "short body with short legs",
+        "etc"
+    ],
+    "Tail": [
+        "Long",
+        "short",
+        "bushy",
+        "thin",
+        "coiled",
+        "absent",
+        "slender",
+        "absent"
+    ],
+    "Ears": [
+        "Long",
+        "short",
+        "pointed",
+        "round",
+        "droopy",
+        "erect",
+        "Large",
+        "small",
+        "floppy",
+        "tufted"
+    ],
+    "Eyes": [
+        "Large",
+        "small",
+        "round",
+        "slit",
+        "on the sides of the head",
+        "in front of the head"
+    ],
+    "Head Shape": [
+        "Round",
+        "square",
+        "triangular",
+        "oval",
+        "tapering"
+    ],
+    "Nose Snout": [
+        "Short",
+        "long",
+        "flat",
+        "pointed"
+    ],
+    "Horns, Antlers Tusks": [
+        "Present",
+        "absent",
+        "long",
+        "short",
+        "curved",
+        "straight"
+    ],
+    "Wings": [
+        "Present",
+        "absent",
+        "long",
+        "short",
+        "broad",
+        "narrow"
+    ],
+    "Fins (ffish)": [
+        "Dorsal",
+        "pectoral",
+        "pelvic",
+        "anal",
+        "caudal"
+    ],
+    "Number of Legs": [
+        "None",
+        "two",
+        "four",
+        "eight",
+        "more"
+    ],
+    "Leg Length": [
+        "Short",
+        "medium",
+        "long"
+    ],
+    "Habitat": [
+        "Forest",
+        "jungle",
+        "ocean",
+        "sky",
+        "desert",
+        "tundra",
+        "city",
+        "Forest-dwelling",
+        "desert-dwelling",
+        "aquatic",
+        "nocturnal",
+        "arboreal",
+        "burrowers"
+    ],
+    "Activity": [
+        "Nocturnal",
+        "diurnal"
+    ],
+    "Diet": [
+        "Carnivore",
+        "herbivore",
+        "omnivore"
+    ],
+    "Behavior": [
+        "Solitary",
+        "social",
+        "aggressive",
+        "docile",
+        "playful"
+    ],
+    "Special Characteristic": [
+        "Bioluminescence",
+        "ability to change color",
+        "venomous",
+        "ability to fly",
+        "number of humps"
+    ],
+    "Endangered status": [
+        "Not endangered",
+        "vulnerable",
+        "endangered",
+        "critically endangered"
+    ],
+    "Domestication Status": [
+        "Domestic",
+        "wild",
+        "semi-domesticated"
+    ],
+    "Prominent Features": [
+        "Manes in lions",
+        "humps in camels",
+        "trunk in elephants",
+        "pouch in kangaroos",
+        "beak shape in birds"
+    ],
+    "Body shape": [
+        "Slim",
+        "bulky",
+        "elongated",
+        "compact",
+        "cylindrical"
+    ],
+    "Fur/feather/scale texture": [
+        "Smooth",
+        "fluffy",
+        "sleek",
+        "spiky",
+        "patterned"
+    ],
+    "Coloration": [
+        "Solid colors",
+        "multi-colored",
+        "spots",
+        "stripes",
+        "camouflage"
+    ],
+    "Facial features": [
+        "Different shaped faces",
+        "snouts",
+        "beaks",
+        "muzzles",
+        "ears",
+        "and noses"
+    ],
+    "Horns/Antlers/Tusks": [
+        "Present absent",
+        "large small",
+        "curved straight"
+    ],
+    "Limbs": [
+        "Number of limbs",
+        "shape of limbs",
+        "paws",
+        "claws",
+        "wings)",
+        "gripping ability"
+    ],
+    "Wing type": [
+        "Feathered wings",
+        "membranous wings",
+        "bats)",
+        "no wings"
+    ],
+    "Scaly skin": [
+        "Type and arrangement of scales",
+        "fish scales",
+        "reptilian scales)"
+    ],
+    "Aquatic adaptations": [
+        "Fins",
+        "webbed feet",
+        "gills",
+        "streamlined body"
+    ],
+    "Land adaptations": [
+        "Hooves",
+        "sturdy legs",
+        "burrowing abilities",
+        "strong jaws fgrazing"
+    ],
+    "Facial expressions": [
+        "Playful",
+        "fierce",
+        "curious",
+        "alert",
+        "any other expression that conveys emotions"
+    ],
+    "Antennae": [
+        "Present absent",
+        "long short",
+        "straight curly"
+    ],
+    "Claws/Fangs": [
+        "Sharp blunt",
+        "large small",
+        "retractable visible"
+    ],
+    "Movement": [
+        "Agile",
+        "slow",
+        "graceful",
+        "slithering",
+        "hopping",
+        "flying"
+    ],
+    "Wing span": [
+        "Large",
+        "medium",
+        "small"
+    ],
+    "Ability": [
+        "Swimming",
+        "climbing",
+        "flying",
+        "digging",
+        "vocalizations",
+        "howling",
+        "singing",
+        "chirping)"
+    ],
+    "Pattern": [
+        "Stripes",
+        "spots",
+        "dots",
+        "lines",
+        "specific markings"
+    ],
+    "Beak shape": [
+        "Short and strong",
+        "long and slender",
+        "hooked",
+        "straight"
+    ],
+    "Wing shape": [
+        "Wide and rounded",
+        "elongated",
+        "triangular",
+        "fan-shaped"
+    ],
+    "Tail shape": [
+        "Fluffy",
+        "bushy",
+        "prehensile",
+        "tapering",
+        "fringed"
+    ],
+    "Leg structure": [
+        "Quadrupedal",
+        "bipedal",
+        "digitigrade",
+        "plantigrade"
+    ],
+    "Snout length": [
+        "Short",
+        "medium",
+        "long"
+    ],
+    "Teeth": [
+        "Sharp",
+        "blunted",
+        "pointed",
+        "fangs",
+        "teeth of different sizes"
+    ],
+    "Scales coloration": [
+        "Vibrant",
+        "iridescent",
+        "dull",
+        "earth tones"
+    ],
+    "Muzzle type": [
+        "Broad",
+        "narrow",
+        "short",
+        "elongated"
+    ],
+    "Mane": [
+        "Thick and flowing",
+        "short and spiky",
+        "absent"
+    ],
+    "Webbed feet": [
+        "Partially webbed fully webbed"
+    ],
+    "Spikes/horns": [
+        "Large",
+        "small",
+        "rounded",
+        "pointed",
+        "curved"
+    ],
+    "Paws/claws": [
+        "Large small",
+        "retractable visible",
+        "sharp blunt"
+    ],
+    "Whiskers": [
+        "Long",
+        "short",
+        "absent"
+    ],
+    "Camouflage adaptation": [
+        "Camouflage patterns",
+        "color-changing abilities",
+        "mimicry"
+    ],
+    "Fin size": [
+        "Large",
+        "medium",
+        "small"
+    ],
+    "Pattern on feathers": [
+        "Stripes",
+        "spots",
+        "speckles",
+        "bars",
+        "specific markings"
+    ],
+    "Shell shape": [
+        "Domed",
+        "flat",
+        "elongated",
+        "spiky"
+    ],
+    "Tail feathers": [
+        "Long",
+        "short",
+        "symmetrical",
+        "asymmetrical"
+    ],
+    "Reproductive adaptations": [
+        "Horns used in courtship displays",
+        "bright and colorful breeding plumage",
+        "mating dances"
+    ],
+    "Posture": [
+        "Upright",
+        "stooped",
+        "flat",
+        "spread out"
+    ],
+    "Speed Ability": [
+        "Slow",
+        "average",
+        "fast",
+        "extremely fast"
+    ],
+    "Foot Type": [
+        "Hooves",
+        "padded feet",
+        "webbed",
+        "talons",
+        "fins",
+        "paws"
+    ],
+    "Climbing Ability": [
+        "Non-climber",
+        "slow climber",
+        "fast climber"
+    ],
+    "Swimming Ability": [
+        "Non-swimmer",
+        "slow swimmer",
+        "fast swimmer"
+    ],
+    "Flight Ability": [
+        "Non-flying",
+        "short distance flyer",
+        "long distance flyer"
+    ],
+    "Breath Holding Ability": [
+        "Low",
+        "average",
+        "high"
+    ],
+    "Lifespan": [
+        "Short",
+        "average",
+        "long"
+    ],
+    "Claws Nails": [
+        "Absent",
+        "present",
+        "sharp",
+        "blunt",
+        "retractable"
+    ],
+    "Moult": [
+        "Seasonal moulting",
+        "periodic moulting",
+        "no moulting"
+    ],
+    "Sounds Calls": [
+        "Silent",
+        "vocal (screeching",
+        "meowing",
+        "chirping",
+        "growling",
+        "etc)"
+    ],
+    "Reproduction": [
+        "Live birth",
+        "eggs",
+        "asexual"
+    ],
+    "No of Offspring": [
+        "Single",
+        "multiple"
+    ],
+    "Migration": [
+        "Non-migratory",
+        "short-distance migrant",
+        "long-distance migrant"
+    ],
+    "Display Features": [
+        "Peacock tail",
+        "deer antlers",
+        "bright coloration"
+    ],
+    "Adaptive Features": [
+        "Camouflage",
+        "mimicry",
+        "nocturnality"
+    ],
+    "Stance": [
+        "Bipedal",
+        "quadrupedal",
+        "sprawled"
+    ],
+    "Neck": [
+        "Long",
+        "short",
+        "medium",
+        "non-existent"
+    ],
+    "Beak/Bill": [
+        "Long",
+        "short",
+        "sharp",
+        "blunt",
+        "hooked (specific to birds)"
+    ],
+    "Venomous/Non-venomous": [
+        "Freptiles",
+        "arachnids",
+        "certain mammals",
+        "and others"
+    ],
+    "Predator/Prey": [
+        "Predator",
+        "prey",
+        "both"
+    ],
+    "Population": [
+        "Widespread rare"
+    ],
+    "Threats": [
+        "Pollution",
+        "habitat loss",
+        "climate change",
+        "hunting",
+        "diseases"
+    ],
+    "Conservation status": [
+        "Least concern",
+        "near threatened",
+        "vulnerable",
+        "endangered",
+        "critically endangered",
+        "extinct in wild",
+        "extinct"
+    ],
+    "Behavitowards humans": [
+        "Fearful",
+        "indifferent",
+        "aggressive",
+        "friendly"
+    ],
+    "Markings": [
+        "stripes",
+        "spots",
+        "patches",
+        "none"
+    ],
+    "Defenses": [
+        "Speed",
+        "horns",
+        "teeth",
+        "claws",
+        "venom",
+        "spines"
+    ],
+    "Role in ecosystem": [
+        "Predator",
+        "herbivore",
+        "scavenger",
+        "producer (like plankton)"
+    ]
+}

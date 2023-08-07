@@ -1,0 +1,411 @@
+{
+    "Height": [
+        "towering",
+        "tall",
+        "average",
+        "short",
+        "petite",
+        "Tall",
+        "dwarf"
+    ],
+    "Build": [
+        "athletic",
+        "muscular",
+        "slender",
+        "average",
+        "heavyset"
+    ],
+    "Age": [
+        "infant",
+        "child",
+        "teenager",
+        "young adult",
+        "middle-aged",
+        "elderly",
+        "Youthful",
+        "elderly"
+    ],
+    "Ethnicity": [
+        "Caucasian",
+        "African",
+        "Asian",
+        "Hispanic",
+        "Middle Eastern",
+        "etc",
+        "Native American",
+        "mix of ethnic backgrounds"
+    ],
+    "Gender": [
+        "male",
+        "female",
+        "non-binary",
+        "gender fluid",
+        "transgender",
+        "Male",
+        "non-binary"
+    ],
+    "Hair Type": [
+        "straight",
+        "wavy",
+        "curly",
+        "afro",
+        "bald"
+    ],
+    "Hair Length": [
+        "long",
+        "medium",
+        "short",
+        "shaven",
+        "bald"
+    ],
+    "Eyes": [
+        "almond shaped",
+        "round",
+        "narrow",
+        "monolid",
+        "prominent",
+        "deep-set"
+    ],
+    "Skin Tone": [
+        "pale",
+        "fair",
+        "olive",
+        "tan",
+        "brown",
+        "dark"
+    ],
+    "Facial Structure": [
+        "Chiseled",
+        "soft",
+        "rectangular",
+        "round",
+        "oval",
+        "square"
+    ],
+    "Distinctive Features": [
+        "freckles",
+        "glasses",
+        "scars",
+        "tattoos",
+        "piercings"
+    ],
+    "Style": [
+        "casual",
+        "professional",
+        "vintage",
+        "gothic",
+        "punk",
+        "athletic"
+    ],
+    "Posture": [
+        "erect",
+        "slouching",
+        "dynamic",
+        "passive",
+        "confident",
+        "timid",
+        "Straight posture",
+        "slouched",
+        "hunched",
+        "dynamic poses"
+    ],
+    "Body type": [
+        "Thin",
+        "athletic",
+        "curvy",
+        "overweight"
+    ],
+    "Facial features": [
+        "Different shaped faces",
+        "such as oval",
+        "round",
+        "square",
+        "triangular",
+        "heart-shaped Other features include the size and shape of eyes",
+        "nose",
+        "lips",
+        "and ears"
+    ],
+    "Hair": [
+        "Long",
+        "short",
+        "curly",
+        "straight",
+        "bald",
+        "with different hairstyles",
+        "ponytail",
+        "afro",
+        "braids",
+        "etc)"
+    ],
+    "Skin color": [
+        "Different ethnicities and skin tones"
+    ],
+    "Clothing style": [
+        "Casual",
+        "formal",
+        "traditional",
+        "specific fashion preferences",
+        "bohemian",
+        "gothic",
+        "preppy",
+        "etc)"
+    ],
+    "Accessories": [
+        "Glasses",
+        "hats",
+        "jewelry",
+        "tattoos",
+        "other adornments",
+        "Jewelry",
+        "watches",
+        "scarves",
+        "gloves",
+        "belts"
+    ],
+    "Facial expressions": [
+        "Happy",
+        "sad",
+        "angry",
+        "surprised",
+        "any other expression that conveys emotions"
+    ],
+    "Facial features (cont)": [
+        "Eye shape",
+        "almond-shaped",
+        "round",
+        "slanted)",
+        "eyebrow thickness",
+        "chin shape",
+        "pointed",
+        "square",
+        "round)",
+        "dimples",
+        "freckles"
+    ],
+    "Hair color": [
+        "Blonde",
+        "brunette",
+        "redhead",
+        "black",
+        "grey",
+        "vibrant colors",
+        "pink",
+        "blue",
+        "purple)"
+    ],
+    "Body proportions": [
+        "Long legs",
+        "short torso",
+        "muscular arms",
+        "broad shoulders",
+        "hourglass figure",
+        "apple-shaped",
+        "pear-shaped"
+    ],
+    "Gait": [
+        "Confident stride",
+        "hesitant steps",
+        "energetic",
+        "limp",
+        "specific mannerisms",
+        "skipping",
+        "shuffling)"
+    ],
+    "Expression lines": [
+        "Wrinkles",
+        "laugh lines",
+        "frown lines",
+        "crow’s feet"
+    ],
+    "Hand gestures": [
+        "Pointing",
+        "making a fist",
+        "holding an object",
+        "thumbs-up",
+        "peace sign"
+    ],
+    "Footwear": [
+        "Sneakers",
+        "high heels",
+        "boots",
+        "sandals",
+        "barefoot"
+    ],
+    "Accessories (cont)": [
+        "Scarves",
+        "belts",
+        "watches",
+        "bags",
+        "headbands",
+        "piercings"
+    ],
+    "Personality traits": [
+        "Confident",
+        "shy",
+        "friendly",
+        "serious",
+        "happy-go-lucky",
+        "mysterious"
+    ],
+    "Occupation": [
+        "Businessperson",
+        "artist",
+        "athlete",
+        "doctor",
+        "musician",
+        "chef",
+        "Office worker",
+        "teacher",
+        "mechanic",
+        "scientist",
+        "musician"
+    ],
+    "Body modifications": [
+        "Tattoos",
+        "piercings",
+        "earrings",
+        "nose ring",
+        "lip ring)",
+        "body art",
+        "scars"
+    ],
+    "Body language": [
+        "Crossing arms",
+        "hands on hips",
+        "standing on tiptoes",
+        "leaning forward backward"
+    ],
+    "Fashion style": [
+        "Vintage",
+        "punk",
+        "casual",
+        "hipster",
+        "formal",
+        "retro"
+    ],
+    "Regular Facial Expression": [
+        "Smiling",
+        "serious",
+        "frowning",
+        "indifferent",
+        "amused",
+        "surprised"
+    ],
+    "Hairstyle": [
+        "Bob",
+        "pixie",
+        "ponytail",
+        "braids",
+        "Mohawk",
+        "buzz cut",
+        "undercut",
+        "messy",
+        "neatly combed"
+    ],
+    "Eyebrows": [
+        "Thin",
+        "thick",
+        "arched",
+        "straight",
+        "unibrow",
+        "bushy"
+    ],
+    "Facial Hair (Men)": [
+        "Full beard",
+        "goatee",
+        "mustache",
+        "stubble",
+        "clean shaven"
+    ],
+    "Body Markings": [
+        "Birthmarks",
+        "moles",
+        "vitiligo",
+        "freckles",
+        "burn marks"
+    ],
+    "Body Language": [
+        "Reserved",
+        "open",
+        "aggressive",
+        "relaxed",
+        "nervous",
+        "dynamic"
+    ],
+    "Fitness level": [
+        "Sedentary",
+        "lightly active",
+        "active",
+        "athlete"
+    ],
+    "Teeth": [
+        "Straight",
+        "crooked",
+        "gap",
+        "missing",
+        "braces"
+    ],
+    "Nose": [
+        "Pointed",
+        "broad",
+        "hooked",
+        "button",
+        "long",
+        "short"
+    ],
+    "Ears": [
+        "Large",
+        "small",
+        "protruding",
+        "flat",
+        "long",
+        "short"
+    ],
+    "Cheekbones": [
+        "High",
+        "low",
+        "wide",
+        "narrow"
+    ],
+    "Lips": [
+        "Full",
+        "thin",
+        "average"
+    ],
+    "Facial Proportions": [
+        "Balanced",
+        "top-heavy",
+        "bottom-heavy"
+    ],
+    "Health": [
+        "Healthy",
+        "sick",
+        "frail",
+        "robust"
+    ],
+    "Emotion": [
+        "Sad",
+        "happy",
+        "angry",
+        "surprised",
+        "fearful",
+        "disgusted"
+    ],
+    "Fashion sense/style": [
+        "Trendy",
+        "classic",
+        "eccentric",
+        "minimalist",
+        "sporty",
+        "boho"
+    ],
+    "Personality": [
+        "Introvert",
+        "extrovert",
+        "kind",
+        "grumpy",
+        "serious",
+        "cheerful"
+    ]
+}
